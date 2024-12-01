@@ -1,0 +1,167 @@
+Age,Depth,GeologicalSetting,Composition
+12300,0.73,Japan/Korea,Felsic
+19318,1.87,Volcanic Front,Felsic
+26330,3.18,Volcanic Front,Felsic
+28480,3.51,Japan/Korea,Felsic
+109786,8.82,Volcanic Front,Felsic
+110715,9.08,Volcanic Front,Felsic
+112716,9.64,Volcanic Front,Bimodal
+113824,9.95,Volcanic Front,Felsic
+123151,11.03,Volcanic Front,Felsic
+126387,11.3,Volcanic Front,Felsic
+130103,11.61,Active Rift,Felsic
+133634,12.14,Japan/Korea,Felsic
+139428,14.15,Japan/Korea,Felsic
+139500,14.15,Volcanic Front,Felsic
+147416,15.78,Volcanic Front,Felsic
+152656,16.83,Japan/Korea,Felsic
+154153,17.13,Volcanic Front,Felsic
+155551,17.41,Volcanic Front,Felsic
+172308,18.17,Volcanic Front,Felsic
+206579,20.11,Volcanic Front,Felsic
+217549,20.89,Japan/Korea,Felsic
+232305,22.18,Volcanic Front,Felsic
+232400,22.18,Japan/Korea,Mafic
+235560,22.49,Volcanic Front,Felsic
+236925,22.62,Volcanic Front,Felsic
+238500,22.77,Volcanic Front,Felsic
+245826,23.08,Volcanic Front,Felsic
+254059,23.45,Volcanic Front,Felsic
+268731,24.94,Volcanic Front,Felsic
+278677,25.95,Volcanic Front,Felsic
+289706,27.07,Volcanic Front,Felsic
+298077,27.92,Volcanic Front,Felsic
+303296,28.45,Volcanic Front,Felsic
+304083,28.53,Japan/Korea,Felsic
+312060,29.34,Volcanic Front,Felsic
+313537,29.49,Active Rift,Felsic
+319150,30.06,Active Rift,Felsic
+324074,30.56,Active Rift,Felsic
+331459,31.31,Volcanic Front,Felsic
+336580,31.83,Volcanic Front,Felsic
+337903,32.06,Volcanic Front,Mafic
+338056,32.42,Volcanic Front,Mafic
+338184,32.72,Volcanic Front,Felsic
+338300,32.72,Japan/Korea,Felsic
+339095,34.86,Volcanic Front,Bimodal
+339571,35.98,Volcanic Front,Bimodal
+339686,36.25,Active Rift,Felsic
+339686,36.25,Volcanic Front,Felsic
+339763,36.43,Volcanic Front,Felsic
+339763,36.43,Active Rift,Felsic
+339925,36.81,Volcanic Front,Felsic
+340457,38.06,Volcanic Front,Felsic
+340478,38.11,Volcanic Front,Felsic
+340533,38.24,Volcanic Front,Felsic
+340597,38.39,Volcanic Front,Bimodal
+340674,38.57,Volcanic Front,Felsic
+340768,38.79,Volcanic Front,Felsic
+340831,38.94,Volcanic Front,Felsic
+349519,39.79,Volcanic Front,Felsic
+354700,40.01,Volcanic Front,Mafic
+354800,40.01,Japan/Korea,Felsic
+367890,40.57,Volcanic Front,Felsic
+368361,40.59,Volcanic Front,Mafic
+387203,41.39,Volcanic Front,Felsic
+390500,41.53,Volcanic Front,Bimodal
+392149,41.6,Volcanic Front,Felsic
+397331,41.82,Volcanic Front,Mafic
+401099,41.98,Volcanic Front,Bimodal
+402937,42.19,Active Rift,Felsic
+404233,42.37,Volcanic Front,Mafic
+411718,43.41,Active Rift,Felsic
+412653,43.54,Volcanic Front,Felsic
+413661,43.67,Active Rift,Felsic
+418411,44.34,Volcanic Front,Bimodal
+418411,44.34,Active Rift,Felsic
+421362,44.75,Volcanic Front,Felsic
+428677,45.82,Volcanic Front,Felsic
+432886,46.48,Active Rift,Felsic
+433970,46.65,Volcanic Front,Felsic
+434487,47.75,Volcanic Front,Felsic
+447413,49.25,Volcanic Front,Felsic
+458754,51.04,Active Rift,Felsic
+468516,51.98,Japan/Korea,Felsic
+471528,52.27,Volcanic Front,Felsic
+491924,54.46,Volcanic Front,Felsic
+492000,54.46,Japan/Korea,Felsic
+493937,54.88,Volcanic Front,Mafic
+493937,54.88,Active Rift,Felsic
+498636,55.86,Volcanic Front,Felsic
+500170,56.18,Volcanic Front,Felsic
+502376,56.64,Volcanic Front,Felsic
+504293,57.04,Volcanic Front,Felsic
+508417,57.9,Volcanic Front,Felsic
+511102,58.46,Volcanic Front,Felsic
+518654,59.8,Japan/Korea,Felsic
+520535,60.12,Volcanic Front,Felsic
+525885,61.03,Volcanic Front,Felsic
+529413,61.63,Volcanic Front,Felsic
+534939,62.57,Volcanic Front,Felsic
+572327,65.8,Japan/Korea,Felsic
+582734,67.77,Volcanic Front,Felsic
+584963,68.35,Active Rift,Felsic
+592811,68.81,Japan/Korea,Felsic
+602349,69.35,Volcanic Front,Felsic
+606941,69.61,Volcanic Front,Felsic
+614910,70.25,Volcanic Front,Felsic
+628240,71.53,Japan/Korea,Felsic
+628300,71.53,Active Rift,Felsic
+630010,71.7,Japan/Korea,Felsic
+688677,78.48,Volcanic Front,Felsic
+692072,78.74,Volcanic Front,Felsic
+696204,78.96,Active Rift,Felsic
+717051,80.07,Volcanic Front,Mafic
+727474,81,Volcanic Front,Felsic
+732755,81.49,Japan/Korea,Felsic
+741916,82.34,Volcanic Front,Felsic
+744933,82.62,Volcanic Front,Felsic
+747074,82.87,Volcanic Front,Mafic
+749431,83.32,Japan/Korea,Felsic
+754144,84.22,Volcanic Front,Felsic
+755401,84.46,Active Rift,Felsic
+756134,84.6,Volcanic Front,Felsic
+759382,85.22,Volcanic Front,Mafic
+760764,85.51,Volcanic Front,Bimodal
+763556,86.14,Volcanic Front,Felsic
+764487,86.35,Volcanic Front,Mafic
+769407,87.46,Volcanic Front,Mafic
+771711,87.98,Volcanic Front,Mafic
+773883,88.47,Volcanic Front,Felsic
+780415,89.92,Volcanic Front,Felsic
+782666,90.3,Active Rift,Felsic
+792676,91.99,Volcanic Front,Felsic
+805442,93.29,Volcanic Front,Felsic
+856624,97.86,Volcanic Front,Felsic
+858621,98.2,Volcanic Front,Mafic
+859857,98.68,Volcanic Front,Felsic
+859934,98.71,Volcanic Front,Mafic
+861943,99.49,Volcanic Front,Mafic
+864441,100.46,Volcanic Front,Mafic
+864931,100.65,Active Rift,Mafic
+865394,100.83,Volcanic Front,Mafic
+866012,101.07,Volcanic Front,Mafic
+867120,101.5,Volcanic Front,Mafic
+868202,101.92,Volcanic Front,Mafic
+869489,102.42,Active Rift,Felsic
+917334,108.62,Active Rift,Mafic
+925111,109.39,Active Rift,Mafic
+926828,109.56,Volcanic Front,Felsic
+953338,110.36,Volcanic Front,Mafic
+954781,111.16,Volcanic Front,Mafic
+956277,111.99,Volcanic Front,Mafic
+957809,112.84,Volcanic Front,Felsic
+958296,113.11,Volcanic Front,Felsic
+958800,113.38,Active Rift,Felsic
+975862,117.68,Active Rift,Felsic
+985174,118.78,Active Rift,Felsic
+1005024,121.29,Active Rift,Felsic
+1033031,124.67,Japan/Korea,Felsic
+1034523,124.85,Japan/Korea,Felsic
+1034600,124.85,Volcanic Front,Felsic
+1038749,125.36,Volcanic Front,Felsic
+1042809,125.85,Volcanic Front,Felsic
+1045626,126.19,Volcanic Front,Felsic
+1055155,127.34,Volcanic Front,Felsic
+1067419,128.82,Volcanic Front,Felsic
+1070070,129.14,Volcanic Front,Felsic
